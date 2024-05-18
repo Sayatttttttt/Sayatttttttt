@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sayatttttttt
+- 👋 Hi, I’m @Sayat
 - 👀 I’m interested in Beckend developing
 - 🌱 I’m currently learning Python and some freamworks
 - 💞️ I’m looking to collaborate on 'Now I don't know'
